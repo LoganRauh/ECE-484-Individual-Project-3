@@ -16,6 +16,8 @@ This project had the goal to create a component to a Pinball machine. This parti
 * Running the Program
 
 ---
+## Git
+Git can be installed in the following link: https://git-scm.com/downloads
 
 ## Arduino
 You'll need to install an Arduino IDE in order to put the code onto your Arduino to operate the circuit.
