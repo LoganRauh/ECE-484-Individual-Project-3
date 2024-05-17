@@ -46,7 +46,7 @@ Once you have all of the above components, create the circuit shown below. One n
 ## Flipper
 My flippers are completely made from cardboard and tape, and they are addmitedly very simple. They can however be 3D printed for a more sturdy output or simply adjust your flipper to your needs or size needed.
 
-There are three key parts to the flippers to note: the flipper (1), the rotation point (2), and the solenoid connnection (3). These will be outlined below.
+There are three key parts to the flippers to note: the paddle (1), the rotation point (2), and the solenoid connnection (3). These will be outlined below.
 
 ![20240517_104243](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c01d4992-c4e7-4389-880a-7d88428c6420)
 
