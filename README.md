@@ -43,6 +43,13 @@ For the circuit you'll need the following compoents:
 
 Once you have all of the above components, create the circuit shown below. One note, you'll need a 12V source and a 5V source. This can be accomplished many ways, I used an 8 1.5V battery holder for my 12V source and my laptop as a 5V source when connected to the Arduino. A sign of causion, if the Arduino consumes 12V you are at risk of damages or completely burning out your Arduino or another component!
 
+The top circuit is the solenoid and the bottom is the button. You'll need both of these per solenoid flipper you are making. There is also another schematic if necessary in the Wiki.
+
+![Screenshot 2024-05-17 193342](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/0dcde3e4-0769-413f-adc8-1638aa773227)
+
+![button](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/05a17caf-fd61-411d-9fe5-5528a27178f7)
+
+
 ## Flipper
 My flippers are completely made from cardboard and tape, and they are addmitedly very simple. They can however be 3D printed for a more sturdy output or simply adjust your flipper to your needs or size needed.
 
