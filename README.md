@@ -78,8 +78,13 @@ If you would like to use either my circuit/flipper design, or code. Follow this 
 
 1. Open your command prompt by typing "cmd" in your devices search bar
 2. Next you need to navigate the command prompt to find the file location you'd like to clone the repository file to. You can do this by typing "cd" then file_path_to_direcctory
-3. Now click the large green "Code" button in this github project
-4. 
+3. Now click the large green "<> Code" button in this github project
+4. A small window will appear, copy the link by clicking the double square button. A visual is shown below
+   
+   ![Screenshot 2024-05-17 132930](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/98964bc0-4bb4-47df-9514-1eade4788674)
+
+5. Finally, in the command prompt type "git clone" followed by the copied link which you can copy into the command prompt line by right clicking
+
 
 Simply connect your device to the Arduino, upload the code (make sure to click on the "Tools" tab and have your Arduino as the selected port). After uploading, connect your voltage sources and click the buttons to fire off the solenoids!
 
