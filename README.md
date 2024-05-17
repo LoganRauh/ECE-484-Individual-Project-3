@@ -16,6 +16,7 @@ This project had the goal to create a component to a Pinball machine. This parti
 * Running the Program
 
 ---
+
 ## Git
 Git can be installed in the following link: https://git-scm.com/downloads
 
@@ -51,6 +52,8 @@ There are three key parts to the flippers to note: the flipper (1), the rotation
 
 ![20240517_104243](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c01d4992-c4e7-4389-880a-7d88428c6420)
 
+---
+
 ## Outputs
 The circuit above worked originally. The button was able to be pressed which activated the solenoids. This was for a period of time however, eventually the solenoids stopped working even after replacing all of the other components (including the Arduino). This was potentially due to an unsafe tests I made originally (explained later). As such I didn't get a demo video until this burnout happened. Still I do believe this circuit is a correct system to use for the purposes of making a button/solenoid circuit.
 
@@ -68,7 +71,16 @@ For the flippers I tried a few models to try and maximize the amount of force on
 ## Conclusion
 I believe that this project was a success as an experiment and learning oppotunity. As previously stated the circuit was successful but the flippers were a failure. I spent roughly $40-50 and 20-24 hours in my efforts for this individual project. If someone wanted to recreate something like this with similar experience to mine this would be a good resource to build off of but not emulate completely.
 
+---
+
 ## Using the Program
-If you would like to use either my circuit/flipper design, or code. Follow this proceedure: after installing the repository files, installing the IDE, creating the circuit, and creating the flipper(s). Simply connect your device to the Arduino, upload the code (make sure to click on the "Tools" tab and have your Arduino as the selected port). After uploading, connect your voltage sources and click the buttons to fire off the solenoids!
+If you would like to use either my circuit/flipper design, or code. Follow this proceedure: after installing the IDE, creating the circuit, and creating the flipper(s). Now you need to clone the repository, please follow these steps:
+
+1. Open your command prompt by typing "cmd" in your devices search bar
+2. Next you need to navigate the command prompt to find the file location you'd like to clone the repository file to. You can do this by typing "cd" then file_path_to_direcctory
+3. Now click the large green "Code" button in this github project
+4. 
+
+Simply connect your device to the Arduino, upload the code (make sure to click on the "Tools" tab and have your Arduino as the selected port). After uploading, connect your voltage sources and click the buttons to fire off the solenoids!
 
 
