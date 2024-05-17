@@ -66,6 +66,11 @@ I also had a running theory that potentially the buttons that I was using were a
 
 For the flippers I tried a few models to try and maximize the amount of force on the ball. I tried changing the solenoid connection point height and also tried using rubber bands to see if that would increase the power. These attempts resulted in mostly nothing noticeable. I had very limited experience in 3D printing before this project and admittely didn't want to spend more money on the project than I already had so I decided to skip on using that method but recognize its a good alternative to cardboard if not better.
 
+## Demo
+Below is a link to the demo of the circuit. Notable the solenoids don't move in the demo and this is due to them being burnt out from previous testing and as such weren't available.
+
+(Link)
+
 ## Conclusion
 I believe that this project was a success as an experiment and learning oppotunity. As previously stated the circuit was successful but the flippers were a failure. I spent roughly $40-50 and 20-24 hours in my efforts for this individual project. If someone wanted to recreate something like this with similar experience to mine this would be a good resource to build off of but not emulate completely.
 
