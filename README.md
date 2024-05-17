@@ -74,7 +74,9 @@ I also had a running theory that potentially the buttons that I was using were a
 For the flippers I tried a few models to try and maximize the amount of force on the ball. I tried changing the solenoid connection point height and also tried using rubber bands to see if that would increase the power. These attempts resulted in mostly nothing noticeable. I had very limited experience in 3D printing before this project and admittely didn't want to spend more money on the project than I already had so I decided to skip on using that method but recognize its a good alternative to cardboard if not better.
 
 ## Demo
-Below is a link to the demo of the circuit. Notable the solenoids don't move in the demo and this is due to them being burnt out from previous testing and as such weren't available.
+Below is an image of the circuit and a link to the demo of the circuit. Notable the solenoids don't move in the demo and this is due to them being burnt out from previous testing and as such weren't available.
+
+![20240517_101839](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c7f25972-084e-4fba-8660-91c7376d36c4)
 
 (Link)
 
