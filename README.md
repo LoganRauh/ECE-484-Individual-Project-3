@@ -13,7 +13,7 @@ This project had the goal to create a component to a Pinball machine. This parti
 * Outputs
 * Adjustments
 * Conclusion
-* Running the Program
+* Using the Project
 
 ---
 
@@ -28,9 +28,7 @@ Follow this link and install the IDE that fits your device, https://www.arduino.
 ### Code
 My code has two parts. First is a commented out simple two button and two solenoid code that if very simple. There is a the not commented code that I made for this project, which has an inversion element, after the buttons are pressed a total of 25 times the controls inverse (left button -> right solenoid, right button -> left solenoid)!
 
-You'll now need the code to run with the Arduino, this can be downloaded from the respository which I will outline how to do below.
-
-(OUTLINING HOW TO DO IT)
+You'll now need the code to run with the Arduino, this can be downloaded from the respository which I will outline how to do below in the "Using the Project" section!
 
 ## Circuit
 For the circuit you'll need the following compoents:
@@ -73,7 +71,7 @@ I believe that this project was a success as an experiment and learning oppotuni
 
 ---
 
-## Using the Program
+## Using the Project
 If you would like to use either my circuit/flipper design, or code. Follow this proceedure: after installing the IDE, creating the circuit, and creating the flipper(s). Now you need to clone the repository, please follow these steps:
 
 1. Open your command prompt by typing "cmd" in your devices search bar
