@@ -36,7 +36,7 @@ For the circuit you'll need the following compoents:
 Once you have all of the above components, create the circuit shown below. One note, you'll need a 12V source and a 5V source. This can be accomplished many ways, I used an 8 1.5V battery holder for my 12V source and my laptop as a 5V source when connected to the Arduino. A sign of causion, if the Arduino consumes 12V you are at risk of damages or completely burning out your Arduino or another component!
 
 ## Flipper
-My flippers are completely made from cardboard and tape. They can however be 3D printed for a more sturdy output.
+My flippers are completely made from cardboard and tape, and they are addmitedly very simple. They can however be 3D printed for a more sturdy output or simply adjust your flipper to your needs or size needed.
 
 There are three key parts to the flippers to note: the flipper (1), the rotation point (2), and the solenoid connnection (3). These will be outlined below.
 
