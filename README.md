@@ -41,8 +41,6 @@ My flippers are completely made from cardboard and tape. They can however be 3D 
 There are three key parts to the flippers to note: the flipper (1), the rotation point (2), and the solenoid connnection (3). These will be outlined below.
 
 ![20240517_104243](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c01d4992-c4e7-4389-880a-7d88428c6420)
-![20240517_104243](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c01d4992-c4e7-4389-880a-7d88428c6420)
-
 
 ## Using The Program
 After installing the repository files, installing the IDE, creating the circuit, and creating the flipper(s). Simply connect your device to the Arduino, upload the code (make sure to click on the "Tools" tab and have your Arduino as the selected port). After uploading, connect your voltage sources and click the buttons to fire off the solenoids!
