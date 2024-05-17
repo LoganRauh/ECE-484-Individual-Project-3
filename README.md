@@ -6,6 +6,7 @@ This project had the goal to create a component to a Pinball machine. This parti
 ---
 
 ## Components
+* Git
 * Arduino IDE and code
 * Circuit
 * Flipper
