@@ -78,7 +78,7 @@ Below is an image of the circuit and a link to the demo of the circuit. Notable 
 
 ![20240517_101839](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c7f25972-084e-4fba-8660-91c7376d36c4)
 
-(Link)
+Link: https://youtube.com/shorts/7UGwvJfNXc8?feature=share
 
 ## Conclusion
 I believe that this project was a success as an experiment and learning oppotunity. As previously stated the circuit was successful but the flippers were a failure. I spent roughly $40-50 and 20-24 hours in my efforts for this individual project. If someone wanted to recreate something like this with similar experience to mine this would be a good resource to build off of but not emulate completely.
