@@ -65,19 +65,16 @@ The circuit above worked originally. The button was able to be pressed which act
 However, as a flipper the solenoids used were simply not powerful enough to push the ball enough for the pusposes of pinball, reaching roughly halfway up the board. I don't believe these solenoids with the given parameteres (ball and board size) would work for this project. So this circuit succeeded as a solenoid system but failed as pinball flippers.
 
 ### Adjustments
-I made various adjustments throughout the course of this project. These included with the components and how they were wired. I also changed my flipper a few times to try and get the most launching power. These adjustments are layed out in the wiki.
 This was my first project that used operating voltages above 5V. As such I spent a period of time learning how to properly integrate with these higher voltage components (and was quite nervous to do so). For the solenoids I initially started with 5V solenoids, since I wanted to be in a familiar place with unfamiliar solenoids. After some testing I was able to get the proper output. However, these were far too weak in order to function as a flipper. So I moved onto using 12V.
 
-There are two common methods to reduce voltage for the uses of Arduino, this is a relay or a transistor. After research I found transistors to be the more common option. Integration was fairly straight forward, eventually landing on the transistors shown above. I made an admittely dumb mistake by assuming that the bread board I was using had each side rail split into two sections and plugged both my different power supplies (12V and 5V) into the same rail, zap frying my Arduino.
+There are two common methods to reduce voltage for the uses of Arduino, this is a relay or a transistor. After research I found transistors to be the more common option. Integration was fairly straight forward, eventually landing on the transistors shown above. I made an admittedly dumb mistake by assuming that the bread board I was using had each side rail split into two sections and plugged both my different power supplies (12V and 5V) into the same rail, zap frying my Arduino.
 
 I also had a running theory that potentially the buttons that I was using were accepting more amps than they are graded to handle, which may be true but since there are two different accepted voltage sources and there was no entropy taking place (the button heating up) I'm not convinced my circuit was damaging the buttons. The solenoids however heated up greatly when being used even it was only just a few clicks of the button.
 
-For the flippers I tried a few models to try and maximize the amount of force on the ball. I tried changing the solenoid connection point height and also tried using rubber bands to see if that would increase the power. These attempts resulted in mostly nothing noticeable. I had very limited experience in 3D printing before this project and admittely didn't want to spend more money on the project than I already had so I decided to skip on using that method but recognize its a good alternative to cardboard if not better.
+For the flippers I tried a few models to try and maximize the amount of force on the ball. I tried changing the solenoid connection point height and also tried using rubber bands to see if that would increase the power. These attempts resulted in mostly nothing noticeable. I had very limited experience in 3D printing before this project and admittedly didn't want to spend more money on the project than I already had so I decided to skip on using that method but recognize its a good alternative to cardboard if not better.
 
 ## Demo
-Below is an image of the circuit and a link to the demo of the circuit. Notable the solenoids don't move in the demo and this is due to them being burnt out from previous testing and as such weren't available.
-
-![20240517_101839](https://github.com/LoganRauh/ECE-484-Individual-Project-3/assets/94214499/c7f25972-084e-4fba-8660-91c7376d36c4)
+Below is a link to the demo of the circuit. Notable the solenoids don't move in the demo and this is due to them being burnt out from previous testing and as such weren't available. There is also a picture of the circuit made by me in the wiki
 
 Link: https://youtube.com/shorts/7UGwvJfNXc8?feature=share
 
